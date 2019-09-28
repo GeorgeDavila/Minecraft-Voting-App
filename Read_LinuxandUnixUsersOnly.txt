@@ -1,0 +1,2 @@
+Install xdg-utils to run on Linux and Unix systems. MAy be on your system already, so try out the app first. 
+http://www.linuxfromscratch.org/blfs/view/svn/xsoft/xdg-utils.html
